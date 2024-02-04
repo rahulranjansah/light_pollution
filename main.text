@@ -25,3 +25,5 @@ print(df_combined[" Site description"].describe())
  ' 80% cloud cover' ' 30% cloud cover' ' 10% cloud cover'
  ' 90% cloud cover' ' partly cloudy 40% cloud cover'
  ' overcast 100% cloud cover' ' partly cloudy 60% cloud cover' ' clear ']
+
+ .
